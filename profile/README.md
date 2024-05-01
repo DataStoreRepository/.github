@@ -1,6 +1,6 @@
-## DataStore Repository 👋
+# DataStore Repository 👋
 
-# Apenas alguns projetos 👍
+## Apenas alguns projetos 👍
 <!--
 
 **Here are some ideas to get you started:**
