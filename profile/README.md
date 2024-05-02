@@ -2,6 +2,7 @@
 
 > [!NOTE]
 > Repositório privado para anexas e documentas projetos pessoais.
+
 > [!TIP]
 > Qualquer ajuda é bem-vinda! 👍
 > 
